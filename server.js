@@ -11,9 +11,8 @@ dotenv.config();
 const app = express();
 
 app.use(cors({
-  origin: '*',
+  origin: 'https://digital-bevy.netlify.app',
   methods: ['GET', 'POST', 'DELETE', 'UPDATE', 'PUT', 'PATCH', 'OPTIONS'],
-  credentials: true
 }));
 app.use(express.json());
 
