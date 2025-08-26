@@ -10,11 +10,7 @@ dotenv.config();
 
 const app = express();
 
-app.use(cors({
-  origin: "https://digital-bevy.netlify.app",  
-  methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
-  allowedHeaders: ["Content-Type", "Authorization"], 
-}));
+app.use(cors());
 
 app.use(express.json());
 
