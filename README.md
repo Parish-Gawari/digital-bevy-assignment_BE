@@ -13,7 +13,7 @@ We are using **Node.js LTS**.
 ## 🚀 Backend Setup (digital-bevy-assignment_BE)
 
 1. Navigate to the backend folder:
-   ```bash
+   ```
    cd digital-bevy-assignment_BE
 ````
 
