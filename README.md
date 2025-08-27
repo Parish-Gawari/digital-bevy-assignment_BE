@@ -59,7 +59,7 @@ Backend will run at: **[http://localhost:5000](http://localhost:5000)**
 3. Create a `.env` file in the frontend folder:
 
    ```env
-   VITE_API_BASE_URL=http://localhost:5000
+   VITE_API_URL=http://localhost:5000
    ```
 
 4. Start the frontend dev server:
