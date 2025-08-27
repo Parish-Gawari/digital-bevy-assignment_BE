@@ -19,7 +19,7 @@ We are using **Node.js LTS**.
 
 2. Install dependencies:
 
-   ```bash
+   ```
    npm install
    ```
 
@@ -34,7 +34,7 @@ We are using **Node.js LTS**.
 
 4. Start the backend server:
 
-   ```bash
+   ```
    npm run dev
    ```
 
@@ -46,13 +46,13 @@ Backend will run at: **[http://localhost:5000](http://localhost:5000)**
 
 1. Navigate to the frontend folder:
 
-   ```bash
+   ```
    cd digital-bevy-assignment_FE
    ```
 
 2. Install dependencies:
 
-   ```bash
+   ```
    npm install
    ```
 
@@ -64,7 +64,7 @@ Backend will run at: **[http://localhost:5000](http://localhost:5000)**
 
 4. Start the frontend dev server:
 
-   ```bash
+   ```
    npm run dev
    ```
 
